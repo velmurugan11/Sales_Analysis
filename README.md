@@ -20,3 +20,5 @@ Best-selling product (highest total sales).
 Find the day with the highest total sales and the product sold on that day.
 Step 4: Export the Data
 Save the DataFrame to a CSV file named store_sales.csv.
+
+📊 The sales_data.csv is output sample for the python program
